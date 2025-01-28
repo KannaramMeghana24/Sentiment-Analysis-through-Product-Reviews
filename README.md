@@ -1,4 +1,4 @@
-# Intel Product Sentiment Analysis
+# INTEL-PRODUCTS-SENTIMENT-ANALYSIS-FROM-ONLINR-REVIEWS
 
 This project performs sentiment analysis on Intel products using various data scraping, preprocessing, and machine learning techniques.
 
@@ -40,5 +40,3 @@ pip install emoji
 pip install langid
 pip install matplotlib
 pip install scikit-learn 
-
-
